@@ -17,3 +17,9 @@ Augmented reality Snippets
 14. Build SDK
 15. Push to android phone
 16. Run
+
+### ARBOOK
+#### Description
+An augmented reality book which projects 3D models as you flip pages of a book
+#### Use cases
+Can be used in regular academic text books to provide personalization of education and also enhance the better understanding of certain concepts which require higher levels of imagination. 
