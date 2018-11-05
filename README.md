@@ -11,4 +11,9 @@ Augmented reality Snippets
 8. Make asset a child of Image which is further a child of ar camera
 9. add animation to asset
 10. Play 
-11. Set up android studio
+11. Set up android studio , Java Development kit, Java Runtime 
+12. Change build settings
+13. Change path and sdk locations
+14. Build SDK
+15. Push to android phone
+16. Run
