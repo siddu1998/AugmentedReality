@@ -1,10 +1,14 @@
 # Augmented Reality : course Udemy
 Augmented reality Snippets
-### installing Unity
-### Attaching Physic components to the bodies in unity
-### Material Design in Unity
-### Writting snippets in C# for object motion
-### installing vuforia plugin in unity 
-### setting up license keys for Vuforia
-### Activating AR camera
-### Setting up Android studio for AR apk
+### Unity One
+1. Set up vuforia account
+2. Set up License keys
+3. Remove regular camera
+4. Plug in AR camera
+5. Set AR camera Credentials (license key)
+6. Get image for scanning
+7. Place assests of AR
+8. Make asset a child of Image which is further a child of ar camera
+9. add animation to asset
+10. Play 
+11. Set up android studio
