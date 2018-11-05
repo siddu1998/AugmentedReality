@@ -1,6 +1,7 @@
 # Augmented Reality : course Udemy
 Augmented reality Snippets
 ### Unity One
+#### Rough Steps
 1. Set up vuforia account
 2. Set up License keys
 3. Remove regular camera
@@ -23,3 +24,9 @@ Augmented reality Snippets
 An augmented reality book which projects 3D models as you flip pages of a book
 #### Use cases
 Can be used in regular academic text books to provide personalization of education and also enhance the better understanding of certain concepts which require higher levels of imagination. 
+#### Rough Steps
+1. Set up new unity project
+2. Set up vuforia
+3. set up license key for AR camera
+4. Delete normal camera 
+5. Develop databases for project with goo Augmentation rate
