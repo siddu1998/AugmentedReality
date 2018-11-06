@@ -1,5 +1,10 @@
-# Augmented Reality : course Udemy
-Augmented reality Snippets
+# Augmented Reality 
+
+### Installation
+1. Install Unity setup windows/mac. Linux will support but eventually you will find no augmented reality plugin support
+2. enable vuforia in XR option
+
+Augmented reality Projects
 ### Unity One
 
 #### Use case: 
