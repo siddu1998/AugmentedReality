@@ -1,6 +1,9 @@
 # Augmented Reality : course Udemy
 Augmented reality Snippets
 ### Unity One
+
+#### Use case: 
+Placing a 3D model over an image entity
 #### Rough Steps
 1. Set up vuforia account
 2. Set up License keys
