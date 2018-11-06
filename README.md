@@ -30,3 +30,9 @@ Can be used in regular academic text books to provide personalization of educati
 3. set up license key for AR camera
 4. Delete normal camera 
 5. Develop databases for project with goo Augmentation rate
+6. Set up each image object
+7. Develop C# scripts for each of the object if u require any kind of animation or task
+8. solve animation issues with DefaultTrackable.cs 
+9. Convert project to andriod sdk
+10. If ios install xcode and follow standard conversion steps
+
