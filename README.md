@@ -51,3 +51,19 @@ Can be used in regular academic text books to provide personalization of educati
 9. Convert project to andriod sdk
 10. If ios install xcode and follow standard conversion steps
 
+### Coding notes:
+#### Adding event listners i.e start playing this image object if this image is shown
+#### DataTypes to take note of
+a. GameObject : we might declare multiple gameobjects within our scene like cubes, ships, imageobjects etc
+b. TrackableBehavious : provides the tracking status in a frame
+#### Function to take note of
+a. void start() : This function indicates the start of gameplay
+b. GameObject.setActive(boolean): each gameobject has an attribute setActive which can be set true or false
+#### Reset position
+a. add colliders to each of the game object (generally one object and and a wall)
+b. add a tag to the wall
+c. handle the collision with 
+                onTriggerEnter(Collider collide){ if (collide.gameObject.CompareTag("SHIPWALL"))
+                      {
+                         transform.localPosition = originalPos;
+                         }}
