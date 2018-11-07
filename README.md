@@ -27,6 +27,13 @@ Placing a 3D model over an image entity
 15. Push to android phone
 16. Run
 
+### Functioning
+1. Take a print or display the image on digital screen (UnityOne.jpg)
+2. Download the UnityOne Apk file onto your android device
+3. Install the apk
+4. Place your mobile phone camera infront of the UnityOne.jpg
+5. Watch the dance of Barbarian on the book cover
+
 ### ARBOOK
 #### Description
 An augmented reality book which projects 3D models as you flip pages of a book
