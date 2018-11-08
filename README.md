@@ -73,3 +73,25 @@ Creating a augmented reality greeting card which displays animation and text on 
 #### Use Case
 Can be used to augment buisness visiting cards and make kiosks more interactive.
 ### Steps
+1. Create Unity Project
+2. Get Vuforia License keys
+3. Create Vuforia Databases
+4. Download Vuforia Databases
+5. Enable Vuforia on Unity
+6. Add License keys to AR camera
+7. Add Image objects
+8. Impose with 3D objects
+9. Add audio files
+10. Change trackable scripts to compile with audio playtimes
+11. create apk
+12. Download apk into android
+13. Happy Birthday!!
+#### Coding parts to take note
+Adding audio on tracking a particular image target is simillar to repositionsing 
+1. create public variables of an AudioSouce and AudioClip w.r.t to the gameobject
+2. attach the audiosource (ImageTarger) and audio clip 
+3. in the OnTrackingFound() if the trackable behaviour has the coressponding name then OneShot the audiocip
+4. in the OnTrackingLost() if the trackable behaviour is lost then Stop the audio source.
+
+
+### Augmented Canvas
