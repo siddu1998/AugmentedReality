@@ -5,7 +5,7 @@
 2. enable vuforia in XR option
 
 Augmented reality Projects
-### Unity One
+### UnityOne
 
 #### Use case: 
 Placing a 3D model over an image entity
@@ -67,3 +67,9 @@ c. handle the collision with
                       {
                          transform.localPosition = originalPos;
                          }}
+### ARGreetingCard
+#### Description
+Creating a augmented reality greeting card which displays animation and text on showing a greeting card
+#### Use Case
+Can be used to augment buisness visiting cards and make kiosks more interactive.
+### Steps
