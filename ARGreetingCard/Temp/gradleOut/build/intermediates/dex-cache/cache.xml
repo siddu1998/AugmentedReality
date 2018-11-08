@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\msais\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\342c1cebe5cb48d444187c4165bddba4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="28.0.3"
+        sha1="d46bca2836cb936675a51f8d54e3402015d835cb">
+        <dex dex="C:\Users\msais\Documents\ARGreetingCard\Temp\gradleOut\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\msais\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\342c1cebe5cb48d444187c4165bddba4\jars\libs\Vuforia.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="28.0.3"
+        sha1="400d0a4de54bb6b0263edf0f8338067b0671b95d">
+        <dex dex="C:\Users\msais\Documents\ARGreetingCard\Temp\gradleOut\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\msais\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\342c1cebe5cb48d444187c4165bddba4\jars\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="28.0.3"
+        sha1="31de12dfd4ff409d57dd52142cd5ebe1c1eee803">
+        <dex dex="C:\Users\msais\Documents\ARGreetingCard\Temp\gradleOut\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\msais\Documents\ARGreetingCard\Temp\gradleOut\libs\unity-classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="28.0.3"
+        sha1="0cf7f5e0fb70f5c0957bc00a0e98cf5761b36a67">
+        <dex dex="C:\Users\msais\Documents\ARGreetingCard\Temp\gradleOut\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+
+</items>

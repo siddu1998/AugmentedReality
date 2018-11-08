@@ -1,0 +1,4 @@
+#Thu Nov 08 12:28:18 IST 2018
+base.0=C\:\\Users\\msais\\Documents\\ARGreetingCard\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
