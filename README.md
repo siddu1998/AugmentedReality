@@ -131,3 +131,14 @@ Adding audio on tracking a particular image target is simillar to repositionsing
 18. Choose any 3D assest and place it in the cube
 19. Play!
 20. If it works then convert build settings to Android
+
+### Cylindrical Object Tracking
+1. Download the Cylinder images
+2. Set the dimensions right
+3. Upload it on database 
+4. Download databases
+5. Import database onto unity
+6. Create your Unity Scene
+7. To change animations to any prefab --> Find the model, in the rig tab change the animation to legacy and then choose your animation and also change the wrap mode to loop, after this add the animation component in the prefab
+8. Develop rotation scripts
+9. Play!
