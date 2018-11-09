@@ -110,3 +110,24 @@ Adding audio on tracking a particular image target is simillar to repositionsing
   e. Sensitivity
   g. Texture Area
   
+### AR Object Tracker
+1. Clone the object tracker apk
+2. Get good quality camera phone
+3. Install the APK
+4. In the App folder you will find the media component
+5. In the media component you will find the A4 tracking sheet
+6. place the object to be scanned with the empty area
+7. Scan the image using the app till your reach roughly 300 points
+8. Once you are done save the .od file which contains the scanned points
+9. Now create a new unity project
+10. Create Vuforia license key
+11. Insert AR camera
+12. Align the Vuforia key with AR camera
+13. Upload the .od files onto the vuforia Database
+14. Download the vuforia database
+15. In the hiearchy add an 3D scan Gameobject
+16. Change from Default database to the newly imported databse
+17. Place the 3D model in the shown cubicle
+18. Choose any 3D assest and place it in the cube
+19. Play!
+20. If it works then convert build settings to Android
