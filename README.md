@@ -95,3 +95,7 @@ Adding audio on tracking a particular image target is simillar to repositionsing
 
 
 ### Augmented Canvas
+1. creation of 2D Image directly is placed into the Canvas
+2. You can place buttons and define functions in the scripts
+3. attach the functions using the OnClick() method.
+4. Move between the scenes using Screen function
