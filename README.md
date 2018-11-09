@@ -99,3 +99,14 @@ Adding audio on tracking a particular image target is simillar to repositionsing
 2. You can place buttons and define functions in the scripts
 3. attach the functions using the OnClick() method.
 4. Move between the scenes using Screen function
+
+### Virtual Buttons
+1. should not be placed over other GameObjects, only on Image objects
+2. 6 Important factors
+  a. Size --> Should have rectangular space and should have an area 10% of the total
+  b. Placement of the virtual button --> place where there is a lot of features
+  c. Not on the boarder 
+  d. Dont place virtual buttons in coloumn --> prefer row
+  e. Sensitivity
+  g. Texture Area
+  
